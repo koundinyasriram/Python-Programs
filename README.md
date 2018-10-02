@@ -1,4 +1,7 @@
 # Python-Programs
+[![GitHub stars](https://img.shields.io/github/stars/OmkarPathak/Python-Programs.svg)](https://github.com/OmkarPathak/Python-Programs/stargazers)
+![Python](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+
 This is my collection of Python Programs.<br />
 For python tutorials, visit my website:<br />
 http://www.omkarpathak.in
@@ -35,12 +38,14 @@ Pune, Maharashtra, India.<br />
     * [More on Stacks..](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Stack)
 5. [Queue](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P39_Queue.py)
     * [More on Queues..](https://github.com/OmkarPathak/Data-Structures-using-Python/tree/master/Queue)
+6. [Hash Table](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P78_HashTable.py)
 
 ## Simple Games in Python
 
 1. [Number Guessing Game](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P21_GuessTheNumber.py)
-2. [Hangman](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P37_Hangman.py)
+2. [Hangman](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P37_HangmanGame.py)
 3. [Rock Paper Scissor](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P49_RockPaperScissors.py)
+4. [Tic Tac Toe](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P75_TicTacToe.py)
 
 ## OOP
 
@@ -65,6 +70,12 @@ Pune, Maharashtra, India.<br />
 
 ## Graphs
 1. [Graph](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P63_Graph.py)
+2. [Breadth First Search](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P01_BreadthFirstSearch.py)
+3. [Depth First Search](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P02_DepthFirstSearch.py)
+4. [Detect Cycle in Directed Graph](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P03_DetectCycleInDirectedGraph.py)
+5. [Detect Cycle in Undirected Graph](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P04_DetectCycleInUndirectedGraph.py)
+6. [Topological Sort](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P68_TopologicalSort.py)
+7. [Prim's Algorithm](https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Graph/P06_Prim's-Algorithm.py)
 
 ## Scripts
 
@@ -78,6 +89,9 @@ Pune, Maharashtra, India.<br />
 8. [Counting Number of Words](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P08_CountNumberOfWords.py)
 9. [Birthday Reminder](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P09_ReminderApplication.py)
 10. [Script to download tutorial from tutorials point](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P10_SciptToDownloadPDF.py)
+11. [Script to check email in your terminal](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P11_CheckEmail.py)
+12. [Script to find devices connected to Network](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P12_ScriptToFindDevicesConnectedInNetwork.py)
+13. [Script to create metadata for a file](https://github.com/OmkarPathak/Python-Programs/blob/master/Scripts/P13_Python_Create_File_With_Metadata.py)
 
 ## Python Concepts
 
@@ -88,10 +102,22 @@ Pune, Maharashtra, India.<br />
 5. [Decorators](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P46_Decorators.py)
 6. [More on Decorators](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P47_MoreOnDecorators.py)
 7. [List Comprehensions](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P50_ListComprehensions.py)
+8. [Python Generators](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P74_PythonGenerators.py)
+
+## Numpy
+1. [Introduction and Basics of Numpy](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P01_Introduction.py)
+2. [Numpy Data Types](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P02_NumpyDataTypes.py)
+3. [Numpy Array Attributes](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P03_NumpyAttributes.py)
+4. [Generate Numpy array from various numerical ranges](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P04_ArrayFromNumericalRange.py)
+5. [Numpy Array Manipulation operations](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P05_NumpyArrayManipulation.py)
+6. [Numpy String Functions](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P06_NumpyStringFunctions.py)
+7. [Numpy Mathematical Functions](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P07_NumpyMathematicalFunctions.py)
+8. [Numpy Arithmetical Operations](https://github.com/OmkarPathak/Python-Programs/blob/master/Numpy/P08_NumpyArithmeticOperations.py)
 
 ## Mini Projects
 * [Address Book](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P61_AddressBook.py)
 With Add, Modify, Search.
+* [Simple Python Keylogger](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P79_SimplePythonKeylogger.py)
 
 ## Random Python Programs
 
@@ -126,3 +152,25 @@ Rearranging of words or phrase to produce a new word or phrase, using all the or
 Check if the given number is a perfect number
 * [Pascal  Triangle](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P59_PascalTriangle.py)
 Implementation of Pascal Triangle
+* [Sieve Of Erathosthenes](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P67_SieveOfEratosthenes.py)
+One of the efficient algorithms to find all the prime numbers upto n, where n can be upto 10 million
+* [Reverse the words](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P69_ReverseWords.py)
+Reversing the order of WORDS in a sentence
+* [Python Progress bar](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P70_SimpleProgressBar.py)
+A simple progress bar helpful for showing the progress of a download
+* [Python unittest Module](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P71_PythonUnittest.py)
+A Python module for writing test cases
+* [Python Lambda Function](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P72_PythonLambda.py)
+An example of Python Lambda function
+* [Python Encryption example using RSA Algorithm](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P73_SimplePythonEncryption.py)
+Encryption/ Decryption using RSA Algorithm
+* [Python ftplib](https://github.com/OmkarPathak/Python-Programs/blob/master/Programs/P76_PythonFTP.py)
+A simple Python FTP file transfer example
+
+# Donation
+
+If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
+
+| PayPal | <a href="https://paypal.me/omkarpathak27" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
+|:-------------------------------------------:|:-------------------------------------------------------------:|
+| ₹ (INR)  | <a href="https://www.instamojo.com/@omkarpathak/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
